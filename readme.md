@@ -6,4 +6,7 @@
 2. `make`
 
 ### screenshots:
-
+<img src="https://raw.githubusercontent.com/ruslashev/poly2tri/master/screenshots/1.png">
+<img src="https://raw.githubusercontent.com/ruslashev/poly2tri/master/screenshots/2.png">
+<img src="https://raw.githubusercontent.com/ruslashev/poly2tri/master/screenshots/3.png">
+<img src="https://raw.githubusercontent.com/ruslashev/poly2tri/master/screenshots/4.png">
